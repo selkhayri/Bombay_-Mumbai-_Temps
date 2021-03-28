@@ -23,7 +23,7 @@ In order to facilitate the machine learning process, several steps were undertak
     - State
     - City
 
-As such, they was removed because it does not add any more information for the prediction algorithm.
+As such, they were removed because they did not add any more information for the prediction algorithm.
 
 * The Year column changed too infrequently to provide much useful information. It was also dropped.
 * This left the Month, Day, and Temp columns.
@@ -57,5 +57,5 @@ RMSE was used to compare the predicted Temps with the measured Temps. The RMSE v
 
 The following plot shows predicted temperatures vs measured temperatures.
 
-
+[](https://github.com/selkhayri/Bombay_-Mumbai-_Temps/tree/main/plots/Pred_vs_Meas.png)
 
