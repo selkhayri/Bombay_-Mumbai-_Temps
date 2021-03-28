@@ -57,4 +57,4 @@ RMSE was used to compare the predicted Temps with the measured Temps. The RMSE v
 
 The following plot shows predicted temperatures vs measured temperatures.
 
-![](https://github.com/selkhayri/Bombay_-Mumbai-_Temps/tree/main/plots/Pred_vs_Meas.png)
+![plot](https://github.com/selkhayri/Bombay_-Mumbai-_Temps/tree/main/plots/Pred_vs_Meas.png)
